@@ -2,7 +2,7 @@
 name = "BalanceDropperBL4"
 version = "1"
 authors = [{ name = "Ty-Gone" }]
-description = "Drop items and loot pools from UI, Requires BlimGUI"
+description = "Drop items and loot pools from UI, Requires BlimGUI (BEWARE some itempool/itempool lists don't work or will crash you)"
 
 [tool.sdkmod]
 name = "BalanceDropperBL4"
