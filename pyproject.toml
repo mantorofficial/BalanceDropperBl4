@@ -7,6 +7,6 @@ description = "Drop items and loot pools from UI, Requires BlimGUI"
 [tool.sdkmod]
 name = "BalanceDropperBL4"
 license = {name = "GPL3", url = "https://choosealicense.com/licenses/gpl-3.0/" }
-download = "https://github.com/RedxYeti/yeti-bl4-sdk/raw/refs/heads/main/GroundLootHelpers/GroundLootHelpers.sdkmod"
+download = "https://github.com/mantorofficial/BalanceDropperBl4/raw/refs/heads/main/BalanceDropper.sdkmod"
 version = "1"
 coop_support = "ClientSide"
